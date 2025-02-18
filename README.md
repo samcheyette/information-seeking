@@ -46,7 +46,7 @@ exploration - Rule learning from examples
 The `Experiments/` directory contains experimental data collected from
 human participants:
 
-### Experiment 1 (E1)
+### Experiments
 
 -   Data from participants solving both Mastermind and ButtonSet tasks
 -   Includes trial-by-trial responses, timing information, and accuracy
